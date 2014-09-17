@@ -1,0 +1,21 @@
+# compiled source
+*.pyc
+
+# logs and databases
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# generated
+cover/
+.coverage
+.vagrant
+
+# Project files
+*.iml
+.idea
